@@ -1,0 +1,90 @@
+[
+ {
+  "category": "Steel",
+  "density": 7.85,
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Material Density",
+  "material_code": "CS",
+  "material_name": "Carbon Steel (Mild Steel)",
+  "modified": "2026-02-07 12:52:21.835522",
+  "name": "4edl265tdt"
+ },
+ {
+  "category": "Stainless Steel",
+  "density": 8.0,
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Material Density",
+  "material_code": "SS304",
+  "material_name": "Stainless Steel 304",
+  "modified": "2026-02-07 12:52:22.292395",
+  "name": "4eej61bdfa"
+ },
+ {
+  "category": "Stainless Steel",
+  "density": 8.0,
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Material Density",
+  "material_code": "SS316",
+  "material_name": "Stainless Steel 316",
+  "modified": "2026-02-07 12:52:22.295542",
+  "name": "4ee7t6q65k"
+ },
+ {
+  "category": "Aluminum",
+  "density": 2.7,
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Material Density",
+  "material_code": "AL6061",
+  "material_name": "Aluminum 6061",
+  "modified": "2026-02-07 12:52:22.297545",
+  "name": "4eeptiaclt"
+ },
+ {
+  "category": "Aluminum",
+  "density": 2.81,
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Material Density",
+  "material_code": "AL7075",
+  "material_name": "Aluminum 7075",
+  "modified": "2026-02-07 12:52:22.299549",
+  "name": "4eep4u5rqu"
+ },
+ {
+  "category": "Copper",
+  "density": 8.96,
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Material Density",
+  "material_code": "CU",
+  "material_name": "Pure Copper",
+  "modified": "2026-02-07 12:52:22.301504",
+  "name": "4ef5h4vmjh"
+ },
+ {
+  "category": "Brass",
+  "density": 8.5,
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Material Density",
+  "material_code": "BR360",
+  "material_name": "Brass 360",
+  "modified": "2026-02-07 12:52:22.302971",
+  "name": "4efv83nace"
+ },
+ {
+  "category": "Bronze",
+  "density": 8.8,
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Material Density",
+  "material_code": "BZ",
+  "material_name": "Bronze",
+  "modified": "2026-02-07 12:52:22.304479",
+  "name": "4ef7348g9q"
+ }
+]
