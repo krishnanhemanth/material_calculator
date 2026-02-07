@@ -68,13 +68,12 @@ frappe.pages['material-weight-calculator'].on_page_load = function(wrapper) {
 
             <div id="result-container" style="display: none;">
                 <div class="result-box">
-                    <div class="result-value" id="result-weight">0.00</div>
-                    <div class="result-label">grams (g)</div>
-                    <div style="margin-top: 15px; color: #666;">
-                        <span id="result-kg">0.000 kg</span> | 
-                        <span id="result-volume">Volume: 0.00 cm³</span>
-                    </div>
-                </div>
+    <div class="result-value" id="result-weight-g">0.00 g</div>
+    <div class="result-value" style="font-size:22px;" id="result-weight-kg">0.000 kg</div>
+    <div style="margin-top: 15px; color: #666;">
+        <span id="result-volume">Volume: 0.00 cm³</span>
+    </div>
+</div>
             </div>
         </div>
     `;
@@ -239,8 +238,8 @@ function calculateWeight() {
         const weightGrams = volumeCm3 * density;
         const weightKg = weightGrams / 1000;
 
-        $('#result-weight').text(weightGrams.toFixed(2));
-        $('#result-kg').text(weightKg.toFixed(3) + ' kg');
+        $('#result-weight-g').text(weightGrams.toFixed(2) + ' g');
+        $('#result-weight-kg').text(weightKg.toFixed(3) + ' kg');
         $('#result-volume').text('Volume: ' + volumeCm3.toFixed(2) + ' cm³');
         $('#result-container').slideDown();
 
