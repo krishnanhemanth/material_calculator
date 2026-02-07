@@ -1,0 +1,11 @@
+{
+ "content": null,
+ "doctype": "Page",
+ "modified_by": "Administrator",
+ "module": "Material Calculator",
+ "name": "material-weight-calculator",
+ "page_name": "material-weight-calculator",
+ "roles": [{"role": "System Manager"}, {"role": "Manufacturing User"}, {"role": "Stock User"}],
+ "standard": "Yes",
+ "title": "Material Weight Calculator"
+}
