@@ -1,0 +1,33 @@
+[
+ {
+  "app": "material_calculator",
+  "charts": [],
+  "content": "[\n            {\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Material Calculator</b></span>\",\"col\":12}},\n            {\"type\":\"paragraph\",\"data\":{\"text\":\"Quick tools for calculating material weight and managing densities.\",\"col\":12}},\n            {\"type\":\"section\",\"data\":{\"label\":\"Tools\",\"col\":12}},\n            {\"type\":\"shortcut\",\"data\":{\"label\":\"Material Weight Calculator\",\"link_to\":\"material-weight-calculator\",\"type\":\"Page\",\"col\":4}},\n            {\"type\":\"shortcut\",\"data\":{\"label\":\"Material Density\",\"link_to\":\"Material Density\",\"type\":\"List\",\"col\":4}}\n        ]",
+  "custom_blocks": [],
+  "docstatus": 0,
+  "doctype": "Workspace",
+  "external_link": null,
+  "for_user": null,
+  "hide_custom": 0,
+  "icon": "tool",
+  "indicator_color": "green",
+  "is_hidden": 0,
+  "label": "Material Calculator",
+  "link_to": null,
+  "link_type": "DocType",
+  "links": [],
+  "modified": "2026-02-07 18:08:01.906937",
+  "module": "Material Calculator",
+  "name": "Material Calculator",
+  "number_cards": [],
+  "parent_page": null,
+  "public": 1,
+  "quick_lists": [],
+  "restrict_to_domain": null,
+  "roles": [],
+  "sequence_id": 10.0,
+  "shortcuts": [],
+  "title": "Material Calculator",
+  "type": "Workspace"
+ }
+]

@@ -1,0 +1,12 @@
+{
+  "doctype": "Workspace",
+  "name": "Material Calculator",
+  "label": "Material Calculator",
+  "title": "Material Calculator",
+  "icon": "tool",
+  "module": "Material Calculator",
+  "is_standard": 1,
+  "public": 1,
+  "sequence_id": 10,
+  "content": "[{\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Material Calculator</span>\",\"col\":12}},{\"type\":\"paragraph\",\"data\":{\"text\":\"Quick tools for calculating material weight and managing densities.\",\"col\":12}},{\"type\":\"section\",\"data\":{\"label\":\"Tools\",\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"label\":\"Material Weight Calculator\",\"link_to\":\"material-weight-calculator\",\"type\":\"Page\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"label\":\"Material Density\",\"link_to\":\"Material Density\",\"type\":\"List\",\"col\":4}}]"
+}
